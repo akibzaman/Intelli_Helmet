@@ -1,0 +1,7 @@
+pip install flask
+pip install flask_mysqldb
+pip install pandas
+pip install numpy
+pip install datetime
+pip install gspread
+from oauth2client.service_account import ServiceAccountCredentials

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "intelli-helmet-gp8",
+  "private_key_id": "77ddc3743db4d3e4147622ae2576354b91c2f309",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMfDEpg22I22Tv\n3nG7T4QED7ghdcfXH4mBCpiwwBMGMuW5HERmwiv9/DY3bsnnhjx42bz2lG6AVs95\ndZt8uKPdrmtnbPVQfk+XUVXAisFML6yR987CAdgfRZL8dkp7WiJu4RiyoeMgmJIE\nDkjlrHqskeBzN+SgUslXkmLstikPtXdGiwvnLyUEgtC7G2O+Cs5EqncC8eQ6UyW9\n8+pjt/XZEEhZ7nludHcHxahMg5RmgtJluKXNs/NVrWq6vQ+hBGiWjJCHG7wqbmqO\nFmKl5m8Z8/vmI6pbfatfwyOfIN1zw9AhAhMoYVPZL6zxGvDEpuo2NfpbBBjI05Sc\nE78k+TE7AgMBAAECggEAHhYn0Ekw1JzIkoJ9jrx5sB9KovcGxaAzmx5JWQ2Uaapo\nzSkGPML/tgm7RcIHSF7NMaWCfXAEJ4ieU5X6SrTgEhNCZPVNzYodgSYhIoidPZhw\ny7P/t+E4QLb76X7Tdqghvi61yOgI2G2aY6kLu2n6or7T8h/x2PpVUDfkVkUhxYL/\ntO8ezZ78Zz3fIZN56rHxLMOxD2Cx1BKb5hsNECYjUuG8Juva+xP3g8hYYdwq4NkB\n0KdK+yhvho6q9RuAEIiN09X97GtF6i0W2wlI/ChGdfUrcezLIMPUamvd4nI2sBgh\neveRcL9vrmUChrFluIG8AQPIvcyITV5b3uUO27sIAQKBgQDm5WUZVGQIknKZ27pq\nb004vqJfWsq/oF9aYzFlJBEONfDAK59hvdSf1QeUdYl9RiQSewfTjI5btzzYsiiw\nf/RCzlBYExNqXiRW5g6Gyui5aVMabeNw+M7DDPRsBPUW0PaPsV1vH0KRzIk66bIJ\nErMJMnSx6+AjACYyI4Q9nCXZTwKBgQDit7FRPnZ0oltfYf/19TjhKyQvgSsTV5Gr\n1MUga5o1+1fFHoVp6bbZ90b1RJc0FzR7+pcq05rUrBSi7Kfqa5hnSz+2sKxdH1Mc\ngKoEfV1bZoy8wBpbAgDAlRDDHbVNp4F1KwN2ONBN2/WSSNz3AeV1VMB1Iq6PJjwl\n8SxPG0DWVQKBgQDCjD6nHQg8gMi3AwELdUSnr1i455M16zbsve98vOryAlkcUqU0\ngfKJycFdQbvbJiJ2v9tUUHYSqU5Hd7X5IZb6Q0RHMauGUFRmM+nBgW6d6zTua/Db\n24i7qEq6SWMJGoDlihij7L72glSOoyIzquHXuf/BenGcjB+i13IxR0RM2QKBgQCi\n62wRvPg0smNE9NCR+AlKzcywEntY5+m3eCu8M3ba6eZVsawfwyJyGZ81K3gYp8BA\ng4BT90HhKFOgDL5R18XqHIoJh4YlWRhJeDA1D72hq9zg2o9V7OeLfNNR0yxxRDjk\ncOeI8iTGfpVG7PNU0VkJ6sBurGCSX+CDR38WzbfXDQKBgF7B+G2aUKB8rAlAEjOo\ny7N2n1sOwcQh/xrEoUmtAEq8VbJOflRzFhHF/l2Kzq8rkCnTi/WR+U7b3X60IDiy\nGokkz94eKiB36YFIR0QLGPMcECe3cyYABgLCjOD58+VynDZutdD4xFpf+inggTpZ\nZ23Bov3wWiQdb2wT4cQgqH+n\n-----END PRIVATE KEY-----\n",
+  "client_email": "intelli-helmet-data-automation@intelli-helmet-gp8.iam.gserviceaccount.com",
+  "client_id": "118219195127640274616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/intelli-helmet-data-automation%40intelli-helmet-gp8.iam.gserviceaccount.com"
+}
