@@ -1,5 +1,5 @@
-pip install flask
-pip install flask_mysqldb
+pip install Flask
+pip install Flask_mysqldb
 pip install pandas
 pip install numpy
 pip install datetime
