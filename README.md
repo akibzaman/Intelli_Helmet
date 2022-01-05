@@ -1,7 +1,10 @@
 # Intelli_Helmet
-Intelli-Helmet is a stress monitoring system using the brain wave data form EEG headset and physiological data (Heart Rate) from wearable device.
+Intelli-Helmet is a stress monitoring system using the brain wave data form EEG headset and physiological data (Heart Rate) from wearable device. Findings are reported in the paper "Intelli-Helmet: An Early Prototype of a Stress Monitoring System for Military Operations" in 3rd International Conference on Information Systems and Management Science, Malta.
 
-Required Libries:
+**Cite this work:** Zaman A., Khan R.T., Karim N., Nazrul Islam M., Uddin M.S., Hasan M.M. (2022) Intelli-Helmet: An Early Prototype of a Stress Monitoring System for Military Operations. In: Garg L. et al. (eds) Information Systems and Management Science. ISMS 2020. Lecture Notes in Networks and Systems, vol 303. Springer, Cham. https://doi.org/10.1007/978-3-030-86223-7_3
+
+
+**Required Libries:**
 1. pip install flask
 2. pip install flask_mysqldb \n
 3. pip install pandas \n
@@ -10,7 +13,7 @@ Required Libries:
 6. pip install gspread
 7. from oauth2client.service_account import ServiceAccountCredentials
 
-Follow the instruction to proceed:
+**Follow the instruction to proceed:**
 
 ****************This is a set of python programs to update the database and UI data basing on input**********
 
